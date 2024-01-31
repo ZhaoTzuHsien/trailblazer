@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/*"
+]
+default-members = ["crates/trailblazer"]
+resolver = "2"
